@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(telegram_bot_envScriptsactivate)",
+      "Bash(pip install:*)",
+      "Bash(telegram_bot_env/Scripts/activate)",
+      "Bash(dir)",
+      "Bash(dir data)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

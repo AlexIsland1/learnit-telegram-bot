@@ -1,0 +1,193 @@
+{
+  "234195742": {
+    "words": {
+      "w1": {
+        "ef": 2.04,
+        "repetition": 6,
+        "interval_sec": 1224,
+        "next_review_ts": 1757766979,
+        "last_grade": 5,
+        "last_review_ts": 1757765755,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w2": {
+        "ef": 2.66,
+        "repetition": 6,
+        "interval_sec": 1596,
+        "next_review_ts": 1757767358,
+        "last_grade": 5,
+        "last_review_ts": 1757765762,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w3": {
+        "ef": 2.5,
+        "repetition": 5,
+        "interval_sec": 600,
+        "next_review_ts": 1757766409,
+        "last_grade": 5,
+        "last_review_ts": 1757765809,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w4": {
+        "ef": 2.42,
+        "repetition": 6,
+        "interval_sec": 1452,
+        "next_review_ts": 1757767221,
+        "last_grade": 4,
+        "last_review_ts": 1757765769,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w5": {
+        "ef": 1.76,
+        "repetition": 5,
+        "interval_sec": 600,
+        "next_review_ts": 1757766422,
+        "last_grade": 5,
+        "last_review_ts": 1757765822,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w6": {
+        "ef": 2.26,
+        "repetition": 5,
+        "interval_sec": 600,
+        "next_review_ts": 1757766377,
+        "last_grade": 5,
+        "last_review_ts": 1757765777,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w7": {
+        "ef": 2.6,
+        "repetition": 6,
+        "interval_sec": 1560,
+        "next_review_ts": 1757767343,
+        "last_grade": 5,
+        "last_review_ts": 1757765783,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w8": {
+        "ef": 3.0,
+        "repetition": 6,
+        "interval_sec": 1800,
+        "next_review_ts": 1757766674,
+        "last_grade": 5,
+        "last_review_ts": 1757764874,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w9": {
+        "ef": 2.7,
+        "repetition": 6,
+        "interval_sec": 1620,
+        "next_review_ts": 1757767436,
+        "last_grade": 5,
+        "last_review_ts": 1757765816,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w10": {
+        "ef": 2.66,
+        "repetition": 6,
+        "interval_sec": 1596,
+        "next_review_ts": 1757767427,
+        "last_grade": 5,
+        "last_review_ts": 1757765831,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w11": {
+        "ef": 2.46,
+        "repetition": 7,
+        "interval_sec": 3630,
+        "next_review_ts": 1757767845,
+        "last_grade": 4,
+        "last_review_ts": 1757764215,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w12": {
+        "ef": 2.02,
+        "repetition": 5,
+        "interval_sec": 600,
+        "next_review_ts": 1757766403,
+        "last_grade": 5,
+        "last_review_ts": 1757765803,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w14": {
+        "ef": 2.46,
+        "repetition": 7,
+        "interval_sec": 3630,
+        "next_review_ts": 1757767880,
+        "last_grade": 4,
+        "last_review_ts": 1757764250,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w13": {
+        "ef": 3.2,
+        "repetition": 7,
+        "interval_sec": 5952,
+        "next_review_ts": 1757772285,
+        "last_grade": 5,
+        "last_review_ts": 1757766333,
+        "status": "review",
+        "interval_days": 1
+      },
+      "w15": {
+        "ef": 1.6,
+        "repetition": 4,
+        "interval_sec": 300,
+        "next_review_ts": 1757766626,
+        "last_grade": 5,
+        "last_review_ts": 1757766326,
+        "status": "learning",
+        "interval_days": 1
+      },
+      "w18": {
+        "ef": 1.98,
+        "repetition": 6,
+        "interval_sec": 1188,
+        "next_review_ts": 1757767027,
+        "last_grade": 5,
+        "last_review_ts": 1757765839,
+        "status": "review",
+        "interval_days": 1
+      }
+    },
+    "session": {
+      "active": false,
+      "current_word": "w6",
+      "mode": "learning",
+      "due_queue": [
+        "w12",
+        "w3",
+        "w5",
+        "w15",
+        "w8",
+        "w1",
+        "w18",
+        "w4",
+        "w7",
+        "w2",
+        "w10",
+        "w9",
+        "w11",
+        "w14"
+      ],
+      "waiting_for_answer": true
+    },
+    "daily_learning": {
+      "last_date": "2025-09-13",
+      "words_learned_today": 0,
+      "daily_goal": 5
+    }
+  }
+}
