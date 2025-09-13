@@ -32,9 +32,15 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Debug: Print all environment variables (without values)
+import os
+logger.info("Available environment variables: " + ", ".join(sorted(os.environ.keys())))
+
 # Bot configuration
 BOT_TOKEN = getenv("BOT_TOKEN")
 if not BOT_TOKEN:
+    logger.error("BOT_TOKEN not found in environment variables")
+    logger.error("Available env vars: " + str(list(os.environ.keys())))
     raise ValueError("BOT_TOKEN not found in environment variables")
 
 # Timezone for Asia/Tashkent
