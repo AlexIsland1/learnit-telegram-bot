@@ -6,7 +6,13 @@
       "Bash(pip install:*)",
       "Bash(telegram_bot_env/Scripts/activate)",
       "Bash(dir)",
-      "Bash(dir data)"
+      "Bash(dir data)",
+      "Read(//c/**)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
